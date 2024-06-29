@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Maxim! 👋
+## 🚀 About Me
+I'm a beginner web-developer
+<li>21 y.o.</li>
+<li>Graduated NSTU(2020-2024)</li>
 
-<!--
-**Makosik/makosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+### Client
+[![Client](https://skillicons.dev/icons?i=js,react,redux,html,css)](https://skillicons.dev)
+### Server
+[![Client](https://skillicons.dev/icons?i=nodejs,express,postgres,postman)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge)](https://t.me/Makosik_0_0)
