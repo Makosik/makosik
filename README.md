@@ -1,6 +1,6 @@
 # Hi, I'm Maxim! 👋
 ## 🚀 About Me
-I'm a beginner web-developer
+I'm a web-developer
 <li>21 y.o.</li>
 <li>Graduated NSTU(2020-2024)</li>
 
